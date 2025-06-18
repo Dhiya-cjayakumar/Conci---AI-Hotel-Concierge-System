@@ -1,6 +1,6 @@
 # Conci – AI-Powered Hotel Room Voice Concierge
 
-**Conci** is an open-source MVP of a smart voice concierge designed for hotel rooms. Guests can speak naturally, and Conci understands their intent, categorizes requests, logs them, and notifies staff — all with privacy-first, local browser-based speech recognition.
+**Conci** is a MVP of a smart voice concierge designed for hotel rooms. Guests can speak naturally, and Conci understands their intent, categorizes requests, logs them, and notifies staff — all with privacy-first, local browser-based speech recognition.
 
 ---
 
