@@ -1,0 +1,26 @@
+>pip install numpy==1.23.5 bokeh==2.4.3 streamlit==1.30 streamlit-bokeh-events
+
+
+ 1. Create the virtual environment
+In Command Prompt:
+
+cd C:\Users\acer\OneDrive\Desktop\conci-mvp
+python -m venv conci-env
+
+conci-env\Scripts\activate
+
+pip install numpy==1.23.5 bokeh==2.4.3 streamlit==1.30 streamlit-bokeh-events
+
+streamlit run app.py
+
+
+
+
+
+Just reopen CMD, activate the environment, and run again:
+
+cd OneDrive\Desktop\conci-mvp
+conci-env\Scripts\activate
+streamlit run app.py
+
+
