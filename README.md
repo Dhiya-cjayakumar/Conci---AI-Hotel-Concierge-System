@@ -53,7 +53,7 @@
 
 
 ### Author
-Dhiya C Jayakumar
-AI Engineer | Open Source Builder
-dhiya.cjayakumar@gmail.com
-www.linkedin.com/in/dhiya-cjayakumar
+- Dhiya C Jayakumar
+- AI Engineer | Open Source Builder
+- dhiya.cjayakumar@gmail.com
+- www.linkedin.com/in/dhiya-cjayakumar
